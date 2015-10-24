@@ -1,0 +1,34 @@
+/**
+ * This is the setting file that holds the default values used when generating a new Titanium project
+ * To find out about the available options type Ti --help in a terminal
+ *
+ * To set the tiPath just use 
+ *   
+ *   echo $PATH
+ * 
+ * in a terminal and see what it should be set to
+ */
+{
+
+	/** The Project Min Log Level **/
+	"logLevel": "info",
+
+	/** The default prefix for your project app id's **/
+	"appId": "uk.spiralarm",
+
+	/** What SDK to use for the Project **/
+	"sdk": "5.0.0.GA",
+
+	/** Target platforms **/
+	"platforms": "ios,android",
+
+	/** Your company/personal URL **/
+	"url": "http://www.spiralarm.uk",
+
+	/** The directory to used as the Workspace when generating new projects  this DIR MUST exist under your ~ (home) dir **/
+	"workspace" : "/sublimethree",
+
+	/** You can add to the Shell path if required by adding options here **/
+	"tiPath" : "/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+
+}

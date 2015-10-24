@@ -1,0 +1,13 @@
+[{
+	
+	"id": "titanium-sac",
+	"caption": "Titanium",
+	"children": [
+		{"caption": "New Classic Project","command": "sac_create"},
+		{"caption": "New Alloy Project","command": "sac_create_alloy"},
+		{"caption": "-"},
+		{"caption": "Config File","command": "open_file", "args": { "file": "${packages}/Titanium/titanium-sac.sublime-settings" },
+  }
+	]
+
+}]

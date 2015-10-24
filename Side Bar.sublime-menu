@@ -1,0 +1,12 @@
+[{
+	
+	"id": "titaniumsb-sac",
+	"caption": "Titanium",
+	"children": [
+		{"caption": "New Alloy Controller","command": "sac_alloy_controller", "args": {"paths": []}},
+		{"caption": "New Alloy Widget","command": "sac_alloy_widget", "args": {"paths": []}},
+		{"caption": "-"},
+		{"caption": "Clean Project","command": "sac_clean_project", "args": {"paths": []}},
+	]
+
+}]
